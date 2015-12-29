@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK" exported="true"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES" exported="true"/>
+	<classpathentry kind="src" path="/klausur-core" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Markus/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.7.2/9ca2de08aa6f9b69cd9d670e3e93b6ac484d4ca3/gdx-backend-android-1.7.2-sources.jar" kind="lib" path="C:/Users/Markus/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.7.2/5211971f79423cda216422e62c1ec8684603c3b2/gdx-backend-android-1.7.2.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Markus/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.7.2/5fc5db168836756dfabc1b73a4f5e81663dd4875/gdx-1.7.2-sources.jar" kind="lib" path="C:/Users/Markus/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.7.2/ccf86a454b5ce7029c243da22f432f2edca0a34e/gdx-1.7.2.jar" exported="true"/>
+</classpath>
