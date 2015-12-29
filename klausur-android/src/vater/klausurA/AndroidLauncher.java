@@ -1,4 +1,4 @@
-package vater.klausur;
+package vater.klausurA;
 
 import android.os.Bundle;
 

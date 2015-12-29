@@ -1,4 +1,4 @@
-package vater.klausur.desktop;
+package vater.klausurD;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
